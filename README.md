@@ -33,17 +33,17 @@ print(f"Hello {name}, you are {age} years old.")
 ```
 ### 🧠 Explanation:
 
--input() collects user input as a string.
--Concatenation joins strings using the + operator.
--Formatted strings (f"") allow variables to be embedded directly into the output, making code cleaner and easier to read.
+- input() collects user input as a string.
+- Concatenation joins strings using the + operator.
+- Formatted strings (f"") allow variables to be embedded directly into the output, making code cleaner and easier to read.
 
 ## 📋 Part 2: Lists
 ### 🔹 Concepts Covered:
 
--Lists are ordered and mutable collections.
--Accessing elements by index.
--Adding items using append().
--Looping through lists with for.
+- Lists are ordered and mutable collections.
+- Accessing elements by index.
+- Adding items using append().
+- Looping through lists with for.
 
 ###💡 Code Example:
 
@@ -64,17 +64,17 @@ for fruit in fruits:
 ```
 ### 🧠 Explanation:
 
--Lists use square brackets [].
--Indexing starts at 0.
--append() adds an item to the end of the list.
--Loops allow you to process each item individually.
+- Lists use square brackets [].
+- Indexing starts at 0.
+- append() adds an item to the end of the list.
+- Loops allow you to process each item individually.
 
 ## 📦 Part 3: Tuples
 ### 🔹 Concepts Covered:
 
--Tuples are ordered but immutable collections.
--Useful for storing fixed data.
--Tuple unpacking allows multiple variables to be assigned at once.
+- Tuples are ordered but immutable collections.
+- Useful for storing fixed data.
+- Tuple unpacking allows multiple variables to be assigned at once.
 
 ### 💡 Code Example:
 
@@ -91,16 +91,16 @@ print(f"x = {x}, y = {y}")
 ```
 ### 🧠 Explanation:
 
--Tuples use parentheses ().
--Once created, their values cannot be changed.
--Tuple unpacking is a clean way to assign multiple values at once.
+- Tuples use parentheses ().
+- Once created, their values cannot be changed.
+- Tuple unpacking is a clean way to assign multiple values at once.
 
 ## 🎨 Part 4: Sets
 ### 🔹 Concepts Covered:
 
--Sets are unordered collections of unique items.
--Duplicate values are automatically removed.
--Use add() to insert new items.
+- Sets are unordered collections of unique items.
+- Duplicate values are automatically removed.
+- Use add() to insert new items.
 
 ### 💡 Code Example:
 
@@ -117,16 +117,16 @@ print(f"Updated colors: {colors}")
 ### 🧠 Explanation:
 🧠 Explanation:
 
--Sets use curly braces {}.
--They automatically remove duplicates.
--Sets are useful for checking membership and ensuring uniqueness.
+- Sets use curly braces {}.
+- They automatically remove duplicates.
+- Sets are useful for checking membership and ensuring uniqueness.
 
 ## 🗂️ Part 5: Dictionaries
 ### 🔹 Concepts Covered:
 
--Dictionaries store data as key-value pairs.
--Keys must be unique.
--Values can be accessed and updated using keys.
+- Dictionaries store data as key-value pairs.
+- Keys must be unique.
+- Values can be accessed and updated using keys.
 
 ### 💡 Code Example:
 
@@ -147,6 +147,6 @@ print(f"Updated grade: {student['grade']}")
 ```
 ### 🧠 Explanation:
 
--Dictionaries use curly braces {} with key: value pairs.
--You access values using dictionary[key].
--You can update values by assigning a new one to a key.
+- Dictionaries use curly braces {} with key: value pairs.
+- You access values using dictionary[key].
+- You can update values by assigning a new one to a key.
