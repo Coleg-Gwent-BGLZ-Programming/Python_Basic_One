@@ -30,7 +30,7 @@ print("Hello " + name + ", you are " + age + " years old.")
 
 # Using formatted strings
 print(f"Hello {name}, you are {age} years old.")
-
+```
 ### 🧠 Explanation:
 
 input() collects user input as a string.
@@ -61,7 +61,7 @@ print(f"Updated list: {fruits}")
 # Loop through the list
 for fruit in fruits:
     print(f"I like {fruit}")
-
+```
 ### 🧠 Explanation:
 
 Lists use square brackets [].
@@ -88,7 +88,7 @@ print(f"X: {coordinates[0]}, Y: {coordinates[1]}")
 # Tuple unpacking
 x, y = coordinates
 print(f"x = {x}, y = {y}")
-
+```
 ### 🧠 Explanation:
 
 Tuples use parentheses ().
@@ -113,7 +113,7 @@ print(f"Unique colors: {colors}")
 # Add a new color
 colors.add("yellow")
 print(f"Updated colors: {colors}")
-
+```
 ### 🧠 Explanation:
 🧠 Explanation:
 
@@ -144,7 +144,7 @@ print(f"{student['name']} is {student['age']} years old and got grade {student['
 # Update a value
 student["grade"] = "A"
 print(f"Updated grade: {student['grade']}")
-
+```
 ### 🧠 Explanation:
 
 Dictionaries use curly braces {} with key: value pairs.
