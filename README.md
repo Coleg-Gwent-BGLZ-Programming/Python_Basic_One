@@ -21,7 +21,7 @@ These examples are ideal for Level 2 learners starting their journey with Python
 
 ### 💡 Example:
 
-'''python
+```python
 name = input("What is your name? ")
 age = input("How old are you? ")
 
@@ -47,8 +47,7 @@ Looping through lists with for.
 
 ###💡 Code Example:
 
-'''python
-
+```python
 # Create a list of fruits
 fruits = ["apple", "banana", "cherry"]
 
@@ -79,9 +78,7 @@ Tuple unpacking allows multiple variables to be assigned at once.
 
 ### 💡 Code Example:
 
-'''python
-
-
+```python
 # Create a tuple
 coordinates = (10, 20)
 
@@ -107,8 +104,7 @@ Use add() to insert new items.
 
 ### 💡 Code Example:
 
-'''python
-
+```python
 # Create a set
 colors = {"red", "green", "blue", "red"}  # 'red' appears only once
 
@@ -134,8 +130,7 @@ Values can be accessed and updated using keys.
 
 ### 💡 Code Example:
 
-'''python
-
+```python
 # Create a dictionary
 student = {
     "name": "Alice",
