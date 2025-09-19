@@ -115,7 +115,6 @@ colors.add("yellow")
 print(f"Updated colors: {colors}")
 ```
 ### 🧠 Explanation:
-🧠 Explanation:
 
 - Sets use curly braces {}.
 - They automatically remove duplicates.
